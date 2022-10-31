@@ -21,4 +21,7 @@ public class Test_Daniel : MonoBehaviour
     {
         Debug.Log("DONT EVER DO THIS!");
     }
+
+    void ConflictTest2() 
+    { }
 }
