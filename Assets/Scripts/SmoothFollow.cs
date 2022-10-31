@@ -49,4 +49,5 @@ public class SmoothFollow : MonoBehaviour
     
         gameObject.transform.position = smoothPos;
     }
+    void Test() { }
 }
