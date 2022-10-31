@@ -16,4 +16,9 @@ public class Test_Daniel : MonoBehaviour
         
     }
     void Test() { }
+
+    void ConflictTest() 
+    {
+        Debug.Log("DONT EVER DO THIS!");
+    }
 }
